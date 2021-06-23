@@ -1,5 +1,5 @@
 # mapeus
-cualquier cosa
+
 imagenes --> 
              
              https://grasslandsim.s3.us-east-2.amazonaws.com/pics.zip 
